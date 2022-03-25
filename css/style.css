@@ -1,0 +1,48 @@
+body{
+  background-image: url(../img/white.jpeg);
+  width:100%;
+}
+h1{
+  font-size:32px;
+  color:black;
+}
+.ali{
+  border:none;
+  color:black;
+  padding:16px 30px;
+  font-size:18px;
+  cursor:pointer;
+  margin:auto;
+}
+
+.success{
+  background-color: #81ecec;
+}
+.success:hover{
+  background:#00cec9;
+}
+.warning{
+  background-color:#55efc4;
+}
+.warning:hover{
+  background:#00b894;
+}
+.info{
+  background-color:#a29bfe;
+}
+.info:hover{
+  background:#6c5ce7;
+}
+.danger{
+  background-color:#ff7675;
+}
+.danger:hover{
+  background:#d63031;
+}
+
+.default{
+  background-color:#b2bec3;
+}
+.default:hover{
+  background:#636e72;
+}
